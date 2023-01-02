@@ -62737,7 +62737,7 @@ A.a9E.prototype={
 $1(a){return new A.hM(A.a([],t.tS),$.az())},
 $S:376}
 A.DC.prototype={
-L(a){return new A.ui(B.EA,"Flutter Markdown Notes",A.afr(null,B.Ei,null),null)}}
+L(a){return new A.ui(B.EA,"Flutter Notes",A.afr(null,B.Ei,null),null)}}
 A.uI.prototype={
 ag(){return new A.JY(B.k)}}
 A.JY.prototype={
@@ -67372,7 +67372,7 @@ B.JC=new A.p(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Jf=new A.p(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.Kp=new A.dC(B.J_,B.K8,B.JS,B.HK,B.JK,B.IT,B.Kc,B.Ia,B.IC,B.JF,B.HF,B.JU,B.JI,B.JC,B.Jf)
 B.v6=new A.wm(1,"longestLine")
-B.Kq=new A.mN("Flutter Markdown Notes",null,null,null,null,null,null,null,null)
+B.Kq=new A.mN("Flutter Notes",null,null,null,null,null,null,null,null)
 B.Kr=new A.mN("Save",null,null,null,null,null,null,null,null)
 B.Nt=new A.GP(0,"system")
 B.Ks=new A.wn(null)
